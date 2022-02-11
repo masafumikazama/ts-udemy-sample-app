@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/masafumikazama/ts-udemy-sample-app/issues"
   },
-  "homepage": "https://github.com/masafumikazama/ts-udemy-sample-app#readme"
+  "homepage": "https://github.com/masafumikazama/ts-udemy-sample-app#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
